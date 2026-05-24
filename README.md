@@ -12,7 +12,7 @@ Database record management
 User-friendly desktop interface
 CRUD operations for efficient data handling
 
-#Technologies Used
+# Technologies Used
 C# (WinForms) – Desktop application development
 SQL Server – Database management system
 Concepts Learned
